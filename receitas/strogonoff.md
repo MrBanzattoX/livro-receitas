@@ -1,4 +1,4 @@
-#Strogonoff de Frango
+Strogonoff de Frango
 
 3 peitos de frango cortados em cubos
 1 dente de alho picado

@@ -1,4 +1,8 @@
-#Livro de Recitas
+#Livro de Receitas
 
-Olá ! Teste de programção com Git
+Olá ! Livro de receitas para testes de programação com Git.
+
+Strogonoff
+Pavê
+
 
